@@ -10,17 +10,17 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 0.4727275
 color:
   saturation: 0.6551058
   brandStrength: 0.472073
   lightness: 0.2060184
   brandColors:
-    - '#000000'
-    - '#2D2A25'
-    - '#F7DFCD'
-    - '#727573'
-    - '#BC8A6C'
+    - '#020202'
+    - '#302F2D'
+    - '#555452'
+    - '#FFFFFF'
+    - '#C7C3C0'
   rhythmicContrast: 0.4827817
-typography_spectrum: 0.4727275
 layout_spectrum: 0.04156202
 name: Phasetwo
