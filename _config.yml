@@ -1,14 +1,26 @@
-layout_spectrum: 0.04156202
-typography_spectrum: 0.4727275
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
   saturation: 0.6551058
+  brandStrength: 0.472073
   lightness: 0.2060184
-  brandStrength: 0.7491009
-  rhythmicContrast: 0.4827817
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#000000'
+    - '#2D2A25'
+    - '#F7DFCD'
+    - '#727573'
+    - '#BC8A6C'
+  rhythmicContrast: 0.4827817
+typography_spectrum: 0.4727275
+layout_spectrum: 0.04156202
 name: Phasetwo
