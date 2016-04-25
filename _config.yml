@@ -1,0 +1,14 @@
+layout_spectrum: 0.04156202
+typography_spectrum: 0.4727275
+color:
+  saturation: 0.6551058
+  lightness: 0.2060184
+  brandStrength: 0.7491009
+  rhythmicContrast: 0.4827817
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Phasetwo
