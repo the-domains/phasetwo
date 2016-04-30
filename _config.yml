@@ -4,15 +4,16 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.4727275
 color:
   saturation: 0.3528464
-  brandStrength: 0.472073
+  brandStrength: 0
   lightness: 0.2060184
   brandColors:
     - '#020202'
@@ -21,6 +22,5 @@ color:
     - '#FFFFFF'
     - '#C7C3C0'
   rhythmicContrast: 0.359291
-typography_spectrum: 0.4727275
 layout_spectrum: 0.04156202
 name: Phasetwo
