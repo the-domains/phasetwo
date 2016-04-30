@@ -10,17 +10,17 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.4727275
 color:
-  saturation: 0
+  saturation: 1
   brandStrength: 0
-  lightness: 1
+  lightness: 0
   brandColors:
     - '#020202'
     - '#302F2D'
     - '#555452'
     - '#FFFFFF'
     - '#C7C3C0'
-  rhythmicContrast: 0.359291
+  rhythmicContrast: 0
+typography_spectrum: 0.4727275
 layout_spectrum: 0.04156202
 name: Phasetwo
